@@ -6,7 +6,6 @@ Projek ini adalah projek latihan saya untuk dapat melakukan pengelompokkan pelan
 ## 🚀 Fitur
 - Dataset disimpan dalam bentuk CSV
 - Model Decision Tree dengan scikit-learn
-- Segmentasi pelanggan dibagi menjadi 3 kelompok
 
 ## 🧠 Tools & Library
 - Python 3.X
@@ -59,6 +58,28 @@ Projek ini adalah projek latihan saya untuk dapat melakukan pengelompokkan pelan
 
 Source Link : https://www.kaggle.com/datasets/vishakhdapat/customer-segmentation-clustering
 
+## 🧾 Data Preprocessing :
+- Data type change
+- Data Duplication
+- Missing Values
+- Outlier
+- Encoding
+- Standard scaler
+- PCA
+
 ## 🖥️ Cara Menjalankan Program
 1. Clone repositori
+```bash
+git clone https://github.com/arvio1378/Customer-Segmentation-KMeans.git
+cd Customer-Segmentation-KMeans
+```
+2. Install dependencies
+```bash
+pip install -r requirements.txt
+```
+3. Jalankan program pada folder src/main.ipynb
 
+
+## 📈 Hasil & Evaluasi
+Elbow Method :
+![image](https://github.com/user-attachments/assets/97cafe26-b0bc-488d-b47f-4cc9b9741737)
