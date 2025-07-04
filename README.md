@@ -81,5 +81,24 @@ pip install -r requirements.txt
 
 
 ## 📈 Hasil & Evaluasi
-Elbow Method :
+- Elbow Method :
 ![image](https://github.com/user-attachments/assets/97cafe26-b0bc-488d-b47f-4cc9b9741737)
+Terdapat sedikit siku pada nilai 2 dan 3 untuk acuan jumlah clustering yang akan dilakukan
+- Silhouette Score :
+- ![image](https://github.com/user-attachments/assets/b9dbd66f-5eb1-416d-9a91-53054d931a24)
+Silhouette score dapat ditentukan bahwa cluster bisa menjadi 2 atau 3 karena kedua nilai tersebut paling tinggi pada grafik. Tetapi dalam hal customer segmentation akan mengambil cluster sebanyak 3 karena kalau dengan 2 cluster terlalu simpel dan hanya seperti pelanggan tersebut aktif dan tidak aktif saja.
+Oleh karena itu untuk jumlah clustering menjadi 3 kelompok. Berdasarkan pembagian cluster telah terbagi diantaranya :
+- Cluster 0 : Pelanggan yang memiliki banyak anak, income sedang, dan pembelian produk sedang. Cluster 0 untuk pelanggan berkeluarga dan bisa diberikan untuk promo keluarga.
+- Cluster 1 : Pelanggan dengan income yang besar dan pembelian produk yang tinggi. Cluster 1 untuk pelanggan yang premium dan bisa diberikan produk ekslusif.
+- Cluster 2 : Pelanggan yang memiliki income rendah, dan pembelian produk sedikit. Cluster 2 untuk pelanggan yang hemat dan bisa diberikan diskon harga.
+
+## 🏗️ Kontribusi
+Dapat melakukan kontribusi kepada siapa saja. Bisa bantu untuk :
+- Menggunakan data yang lebih besar
+- Menambahkan antaramuka di web/streamlit
+
+## 🧑‍💻 Tentang Saya
+Saya sedang belajar dan membangun karir di bidang AI/ML. Projek ini adalah latihan saya untuk membangun aplikasi python sederhana. Saya ingin lebih untuk mengembangkan skill saya di bidang ini melalui projek-projek yang ada.
+📫 Terhubung dengan saya di:
+- Linkedin : https://www.linkedin.com/in/arvio-abe-suhendar/
+- Github : https://github.com/arvio1378
