@@ -96,7 +96,6 @@ Oleh karena itu untuk jumlah clustering menjadi 3 kelompok. Berdasarkan pembagia
 ## 🏗️ Kontribusi
 Dapat melakukan kontribusi kepada siapa saja. Bisa bantu untuk :
 - Menggunakan data yang lebih besar
-- Menambahkan antaramuka di web/streamlit
 
 ## 🧑‍💻 Tentang Saya
 Saya sedang belajar dan membangun karir di bidang AI/ML. Projek ini adalah latihan saya untuk membangun aplikasi python sederhana. Saya ingin lebih untuk mengembangkan skill saya di bidang ini melalui projek-projek yang ada.
