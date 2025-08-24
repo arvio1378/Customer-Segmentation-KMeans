@@ -15,6 +15,7 @@ Projek ini adalah projek latihan saya untuk dapat melakukan pengelompokkan pelan
 - Matplotlib
 - Seaborn
 - Datetime
+- Streamlit
 
 ## 📁 Struktur Folder
 - Customer Segmentation K-Means/
